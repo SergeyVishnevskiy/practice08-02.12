@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+input {
+  margin: 25px auto;
+  border-radius: 10px;
+  color: darkblue;
+  height: 25px;
+  min-width: 250px;
+}
+button {
+  border-radius: 10px;
+  width: 200px;
+  height: 50px;
+  background-color: aqua;
+  cursor: pointer;
+  font-size: 35px;
+}
